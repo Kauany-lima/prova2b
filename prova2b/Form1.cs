@@ -20,7 +20,8 @@ namespace prova2b
         private void button1_Click(object sender, EventArgs e)
         {
             correcao correcao2 = new correcao();
-            ShowDialog(correcao2);
+         //   ShowDialog(correcao2);
+            correcao2.ShowDialog();
         }
     }
 }
