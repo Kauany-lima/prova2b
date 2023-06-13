@@ -1,0 +1,12 @@
+C:\Users\2022102020072\source\repos\prova2b\prova2b\bin\Debug\prova2b.exe.config
+C:\Users\2022102020072\source\repos\prova2b\prova2b\bin\Debug\prova2b.exe
+C:\Users\2022102020072\source\repos\prova2b\prova2b\bin\Debug\prova2b.pdb
+C:\Users\2022102020072\source\repos\prova2b\prova2b\obj\Debug\prova2b.csproj.AssemblyReference.cache
+C:\Users\2022102020072\source\repos\prova2b\prova2b\obj\Debug\prova2b.csproj.SuggestedBindingRedirects.cache
+C:\Users\2022102020072\source\repos\prova2b\prova2b\obj\Debug\prova2b.correcao.resources
+C:\Users\2022102020072\source\repos\prova2b\prova2b\obj\Debug\prova2b.Form1.resources
+C:\Users\2022102020072\source\repos\prova2b\prova2b\obj\Debug\prova2b.Properties.Resources.resources
+C:\Users\2022102020072\source\repos\prova2b\prova2b\obj\Debug\prova2b.csproj.GenerateResource.cache
+C:\Users\2022102020072\source\repos\prova2b\prova2b\obj\Debug\prova2b.csproj.CoreCompileInputs.cache
+C:\Users\2022102020072\source\repos\prova2b\prova2b\obj\Debug\prova2b.exe
+C:\Users\2022102020072\source\repos\prova2b\prova2b\obj\Debug\prova2b.pdb

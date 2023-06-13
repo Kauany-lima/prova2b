@@ -16,5 +16,11 @@ namespace prova2b
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            correcao correcao2 = new correcao();
+            ShowDialog(correcao2);
+        }
     }
 }

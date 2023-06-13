@@ -39,7 +39,7 @@
             this.tx_4 = new System.Windows.Forms.TextBox();
             this.tx_1 = new System.Windows.Forms.TextBox();
             this.calcular = new System.Windows.Forms.Button();
-            this.label1 = new System.Windows.Forms.Label();
+            this.ib_resultado = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // tx_2
@@ -122,21 +122,22 @@
             this.calcular.UseVisualStyleBackColor = true;
             this.calcular.Click += new System.EventHandler(this.calcular_Click);
             // 
-            // label1
+            // ib_resultado
             // 
-            this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(147, 384);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(35, 13);
-            this.label1.TabIndex = 11;
-            this.label1.Text = "label1";
+            this.ib_resultado.AutoSize = true;
+            this.ib_resultado.Location = new System.Drawing.Point(147, 384);
+            this.ib_resultado.Name = "ib_resultado";
+            this.ib_resultado.Size = new System.Drawing.Size(35, 13);
+            this.ib_resultado.TabIndex = 11;
+            this.ib_resultado.Text = "label1";
+            this.ib_resultado.Click += new System.EventHandler(this.ib_resultado_Click);
             // 
             // correcao
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Controls.Add(this.label1);
+            this.Controls.Add(this.ib_resultado);
             this.Controls.Add(this.calcular);
             this.Controls.Add(this.tx_1);
             this.Controls.Add(this.tx_4);
@@ -168,6 +169,6 @@
         private System.Windows.Forms.TextBox tx_4;
         private System.Windows.Forms.TextBox tx_1;
         private System.Windows.Forms.Button calcular;
-        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Label ib_resultado;
     }
 }
